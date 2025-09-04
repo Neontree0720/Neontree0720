@@ -1,4 +1,7 @@
-## Hi there 👋
+## 안녕하세요!
+-🔭 neontree0720.github.io (neontree.qaa.kr) 을 제작하고 있습니다.
+- 🌱 HTML을 배우고 있습니다.
+- 엔트리 마이페이지: playentry.org/5ff57f1e43b25a00dd7cf050?sort=created&term=all&isOpen=all
 
 <!--
 **Neontree0720/Neontree0720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
